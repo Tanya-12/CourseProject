@@ -1,0 +1,9 @@
+C:\Users\tanya\OneDrive\Рабочий стол\CustomArchiver\bin\Debug\CustomArchiver.exe.config
+C:\Users\tanya\OneDrive\Рабочий стол\CustomArchiver\bin\Debug\CustomArchiver.exe
+C:\Users\tanya\OneDrive\Рабочий стол\CustomArchiver\bin\Debug\CustomArchiver.pdb
+C:\Users\tanya\OneDrive\Рабочий стол\CustomArchiver\obj\Debug\CustomArchiver.csprojAssemblyReference.cache
+C:\Users\tanya\OneDrive\Рабочий стол\CustomArchiver\obj\Debug\CustomArchiver.CustomForm.resources
+C:\Users\tanya\OneDrive\Рабочий стол\CustomArchiver\obj\Debug\CustomArchiver.Properties.Resources.resources
+C:\Users\tanya\OneDrive\Рабочий стол\CustomArchiver\obj\Debug\CustomArchiver.csproj.GenerateResource.cache
+C:\Users\tanya\OneDrive\Рабочий стол\CustomArchiver\obj\Debug\CustomArchiver.exe
+C:\Users\tanya\OneDrive\Рабочий стол\CustomArchiver\obj\Debug\CustomArchiver.pdb
